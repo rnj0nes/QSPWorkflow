@@ -5,7 +5,7 @@ The book aims to
 - Convey the overarching goals of being an effective contributing member of a multidisciplinary team in the data analyst role
 - Provide timeless principles (chapter part 1) and applied practice guidelines (chapter part 2) specific to the Brown University environment. Part 2 will be updated more regularly than part 1.
 
-The book is organized around the fundamental unit of communication with collaborators: the data analysis report. By focusing on this elmental work product, we address issues of effective communication, project management, responsible data management and reproducible analysis, statistical analysis.
+**_The book is organized around the fundamental unit of communication with collaborators: the data analysis report._** By focusing on this elmental work product, we address issues of effective communication, project management, responsible data management and reproducible analysis, statistical analysis.
 
 A shitty first draft of data analysis reports is at [https://quantsci.s3.amazonaws.com/BlogPosts/Analysis_Reports.html](url)
 
