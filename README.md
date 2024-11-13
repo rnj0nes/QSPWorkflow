@@ -8,7 +8,7 @@ The book aims to
 **_The book is organized around the fundamental unit of communication with collaborators: the data analysis report._** By focusing on this elmental work product, we address issues of effective communication, project management, responsible data management and reproducible analysis, statistical analysis.
 
 A shitty first draft of data analysis reports is at
-<a href="[https://example.com](https://quantsci.s3.amazonaws.com/BlogPosts/Analysis_Reports.html)" target="_blank">QSP Blog</a>
+<a href="https://quantsci.s3.amazonaws.com/BlogPosts/Analysis_Reports.html" target="_blank">QSP Blog</a>
 
 ## Book Outline: Principles and Practice for Data Analysis in a Supporting and Consulting Environment
 
